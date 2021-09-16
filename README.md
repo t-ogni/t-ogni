@@ -44,8 +44,7 @@
 ## Support me
 > just for cup of tea =)
 
-![Qiwi](https://img.shields.io/badge/-Qiwi_Wallet-EEE?style=for-the-badge&logo=Qiwi&link=https://my.qiwi.com/Artem-YaRYmdn-UqC)
-
+[![Qiwi](https://img.shields.io/badge/-Qiwi_Wallet-EEE?style=for-the-badge&logo=Qiwi&)](https://my.qiwi.com/Artem-YaRYmdn-UqC)
 
 ---
 best repositories are below the introduction in the pinned items
