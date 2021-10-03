@@ -12,15 +12,15 @@
 ---
 
 <!-- Talking about you -->
-**Some information about myself:**
+**About me:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🇷🇺 I am a developer from Russia. 
-- 🌐 I’m currently studying Back & Frontend now.
-- 🖥️  I'm looking for a job.
-- 💬 Ask me about anything, I am glad to help.
+- 🇷🇺  dev from Russia. 
+- 🖥️  looking for a job.
+
+* btw i use arch :)
 
 **Used Languages:** 
 <p>
@@ -29,11 +29,12 @@
   </a>
 
 ![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-111?style=for-the-badge&logo=Python&logoColor=blue)
+ ![Python](https://img.shields.io/badge/-Python-111?style=for-the-badge&logo=Python&logoColor=blue)
+  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
 ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+  
 <br/> **Used Technologies:** <br/>
 ![Git](https://img.shields.io/badge/-Git-824?style=for-the-badge&logo=git)
 ![SQL](https://img.shields.io/badge/-SQL-66F?style=for-the-badge&logo=mysql&logoColor=black)
