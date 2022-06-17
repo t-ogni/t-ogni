@@ -11,25 +11,14 @@
 
 ---
 
-<!-- Talking about you -->
-**About me:**
-
 <!-- Any image aligned to the right. Beware the width -->
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🇷🇺  dev from Russia. 
-- 🖥️  looking for a job.
-
-* btw i use arch :)
 
 **Used Languages:** 
-<p>
-  <a href="https://github.com/moonlincoder">
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=moonlincoder&show_icons=true" alt="stats"/>
-  </a>
 
 ![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
- ![Python](https://img.shields.io/badge/-Python-111?style=for-the-badge&logo=Python&logoColor=blue)
+![Python](https://img.shields.io/badge/-Python-111?style=for-the-badge&logo=Python&logoColor=blue)
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
