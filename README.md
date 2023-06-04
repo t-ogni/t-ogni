@@ -10,7 +10,7 @@
 ---
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/moonlincoder/moonlincoder/main/skyline.png" />
 
 
 **На чём охотно пишу:** 
