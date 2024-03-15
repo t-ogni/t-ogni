@@ -1,5 +1,3 @@
-### Здравствуй, путник <br/> я ни в чём не откажу
-
 [![Github](https://img.shields.io/badge/-Github-111?style=flat&logo=Github&logoColor=white)](https://github.com/moonlincoder)
 [![Discord](https://img.shields.io/badge/-Discord-474EA7?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/483957617765515264)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/t_ogni)
@@ -13,7 +11,7 @@
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/moonlincoder/moonlincoder/main/skyline.png" />
 
 
-**На чём охотно пишу:** 
+**На чём пишу:** 
 
 ![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-222?style=for-the-badge&logo=Python&logoColor=blue) <br/>
