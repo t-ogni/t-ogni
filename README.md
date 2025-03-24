@@ -11,11 +11,13 @@
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/moonlincoder/moonlincoder/main/skyline.png" />
 
 
+![Java](https://img.shields.io/badge/Java-Android-%23323330.svg?style=for-the-badge&logo=Java&logoColor=%23F7DF1E) </br>
+![Java](https://img.shields.io/badge/Kotlin-Android-%23323330.svg?style=for-the-badge&logo=Java&logoColor=%23F7DF1E)
+<!--
 **На чём пишу:** 
 
 ![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-222?style=for-the-badge&logo=Python&logoColor=blue) <br/>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
   
@@ -24,6 +26,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-66F?style=for-the-badge&logo=mysql&logoColor=black)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-144?style=for-the-badge&logo=Opengl) 
 ![Heroku](https://img.shields.io/badge/-Heroku-805AC3?style=for-the-badge&logo=Heroku&logoColor=black)
+-->
 </p>
  
----
