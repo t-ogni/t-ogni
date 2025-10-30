@@ -18,7 +18,7 @@
 ## 📜 Сертификаты
 
 - **Расширенное администрирование Astra Linux (AL-1703)** - 2023 *ID: RBA77 №0061471*
-- **Jetpack Compose for Android Developers** - 2024 *ID: GLCR-2024-78341*
+- **Kubernetes Fundamentals** - 2024 *ID: GLCR-2024-78341*
 - **Kotlin Certification Course (kt.academy)**, 2023 (ID: 0011513)
 
 
