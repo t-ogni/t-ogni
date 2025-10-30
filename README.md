@@ -7,13 +7,12 @@
 
 ---
 
-
-### 👋 Привет!
+### Привет!
 
 Меня зовут **Яковский Артём** — я занимаюсь разработкой и поддержкой систем.  
 Люблю автоматизировать процессы и писать чистый, понятный код.  
 
-## ⚡ Языки
+##  Языки
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## 📜 Сертификаты
@@ -22,7 +21,6 @@
 - **Jetpack Compose for Android Developers** - 2024 *ID: GLCR-2024-78341*
 - **Kotlin Certification Course (kt.academy)**, 2023 (ID: 0011513)
 
-⭐ *“ Вода камень точит ”*  
 
 
 
