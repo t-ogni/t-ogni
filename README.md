@@ -1,7 +1,7 @@
 # 🚀 My Portfolio — Яковский Артём
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:t.ogni.gen@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/t_ogni)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/t_ogni_wrk)
 
 <img align="right" width="250" src="https://raw.githubusercontent.com/moonlincoder/moonlincoder/main/skyline.png" alt="Skyline" />
 
